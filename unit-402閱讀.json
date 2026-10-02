@@ -1,0 +1,543 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "油桐花季在每年的什麼時候？",
+    "options": ["三月", "四、五月", "六、七月"],
+    "answer": 1,
+    "explanation": "油桐花季在每年的四、五月。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個不是油桐的名稱？",
+    "options": ["千年桐", "皺桐", "木麻黃"],
+    "answer": 2,
+    "explanation": "木麻黃不是油桐的名稱。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一項不是油桐的功用？",
+    "options": ["做便當盒", "做床板", "做食用油"],
+    "answer": 2,
+    "explanation": "油桐的種子可榨桐油，但不被用作食用油。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "油桐花是什麼顏色？",
+    "options": ["白色", "紅色", "紫色"],
+    "answer": 0,
+    "explanation": "油桐花是雪白的顏色。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "目前在哪一個地區的油桐花季非常有名？",
+    "options": ["員林地區", "三義地區", "公館地區"],
+    "answer": 1,
+    "explanation": "三義地區的油桐花季非常有名。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「皚皚的白雪」中的「皚皚」意為？",
+    "options": ["潔白的樣子", "明亮的樣子", "潮濕的樣子"],
+    "answer": 0,
+    "explanation": "皚皚意為潔白的樣子。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「讓遊人不禁駐足欣賞」中的「不禁」意為？",
+    "options": ["拘捕監禁", "忍不住", "大小便失去控制"],
+    "answer": 1,
+    "explanation": "不禁：意為忍不住。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「皚皚的白雪」中的「皚」，注音為？",
+    "options": ["ㄞ", "ㄞˊ", "ㄞˇ"],
+    "answer": 1,
+    "explanation": "皚的注音為ㄞˊ。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「讓遊人不禁駐足欣賞」中的「禁」，注音為？",
+    "options": ["ㄐㄧㄣ", "ㄐㄧㄣˇ", "ㄐㄧㄣˋ"],
+    "answer": 0,
+    "explanation": "禁的注音為ㄐㄧㄣ。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「讓遊人不禁駐足欣賞」中的「駐足」意為？",
+    "options": ["停下腳步", "保留實力", "進入某地駐紮"],
+    "answer": 0,
+    "explanation": "駐足：意為停下腳步。"
+  },
+  {
+    "id": 11,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「任其自生自滅」中的「任」意為？",
+    "options": ["職責、職務", "擔當、承受", "聽憑、任由"],
+    "answer": 2,
+    "explanation": "「任其自生自滅」中的「任」：意為聽憑、任由。"
+  },
+  {
+    "id": 12,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「任其自生自滅」中的「其」意為？",
+    "options": ["大概，表示揣測", "應該，表示期望", "它，此指油桐樹"],
+    "answer": 2,
+    "explanation": "其：在此指油桐樹。"
+  },
+  {
+    "id": 13,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「任其自生自滅」中的「任」，注音為？",
+    "options": ["ㄖㄣˊ", "ㄖㄣˇ", "ㄖㄣˋ"],
+    "answer": 2,
+    "explanation": "任的注音為ㄖㄣˋ。"
+  },
+  {
+    "id": 14,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「風氣日盛」中的「日盛」意為？",
+    "options": ["日漸蓬勃發展", "情況愈來愈壞", "適逢這一盛況"],
+    "answer": 0,
+    "explanation": "日盛意為：日漸蓬勃發展。"
+  },
+  {
+    "id": 15,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「果皮有皺紋」中的「皺」，注音為？",
+    "options": ["ㄓㄡ", "ㄓㄡˋ", "ㄗㄡˋ"],
+    "answer": 1,
+    "explanation": "皺的注音為ㄓㄡˋ。"
+  },
+  {
+    "id": 16,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「它的種子可榨桐油」中的「榨」，注音為？",
+    "options": ["ㄓㄚˋ", "ㄓㄞˇ", "ㄗㄞˇ"],
+    "answer": 0,
+    "explanation": "榨的注音為ㄓㄚˋ。"
+  },
+  {
+    "id": 17,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「它又重新找回了大家的關愛」中的「重」，注音為？",
+    "options": ["ㄔㄨㄥˊ", "ㄓㄨㄥˋ", "ㄓㄨㄥ"],
+    "answer": 0,
+    "explanation": "重的注音為ㄔㄨㄥˊ。"
+  },
+  {
+    "id": 18,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「多為早年栽植」中的「栽」，注音為？",
+    "options": ["ㄘㄞˊ", "ㄗㄞ", "ㄗㄞˋ"],
+    "answer": 1,
+    "explanation": "栽的注音為ㄗㄞ。"
+  },
+  {
+    "id": 19,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "油桐樹的果皮為何又稱為「皺桐」？",
+    "options": ["因為果實圓潤", "因為果皮有皺紋", "因為樹幹粗壯"],
+    "answer": 1,
+    "explanation": "因為果皮有皺紋，所以又稱為「皺桐」。"
+  },
+  {
+    "id": 20,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "油桐的種子可以用來製作什麼？",
+    "options": ["食用油", "香油", "桐油"],
+    "answer": 2,
+    "explanation": "油桐的種子可以榨桐油。"
+  },
+  {
+    "id": 21,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "油桐花季節吸引了哪些人？",
+    "options": ["當地居民", "遊客和詩人", "農民"],
+    "answer": 1,
+    "explanation": "油桐花季節吸引了遊客和詩人前來欣賞。"
+  },
+  {
+    "id": 22,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "油桐花的顏色是什麼？",
+    "options": ["紅色", "黃色", "白色"],
+    "answer": 2,
+    "explanation": "油桐花是雪白的顏色。"
+  },
+  {
+    "id": 23,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "油桐樹的栽植歷史可以追溯到哪個年代？",
+    "options": ["民國五、六十年代", "清朝", "日治時期"],
+    "answer": 0,
+    "explanation": "早在民國五、六十年代，就有人種油桐樹。"
+  },
+  {
+    "id": 24,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "油桐樹的木材有什麼特點？",
+    "options": ["堅硬", "輕軟", "耐水"],
+    "answer": 1,
+    "explanation": "油桐樹的木材質地輕軟。"
+  },
+  {
+    "id": 25,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "油桐花季節讓遊人感受到什麼？",
+    "options": ["寧靜", "美景", "繁忙"],
+    "answer": 1,
+    "explanation": "油桐花季成為遊客眼中的美景。"
+  },
+  {
+    "id": 26,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「自生自滅」的意思是什麼？",
+    "options": ["自己生長和死亡", "任其自然發展", "自我管理"],
+    "answer": 1,
+    "explanation": "自生自滅：指的是任其自然發展，而不加以任何干預。"
+  },
+  {
+    "id": 27,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "油桐花的盛開時間通常是在何時？",
+    "options": ["春天", "夏天", "秋天"],
+    "answer": 0,
+    "explanation": "油桐花季通常在春天盛開。"
+  },
+  {
+    "id": 28,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "油桐樹的另一個別名是什麼？",
+    "options": ["千年桐", "百年桐", "長青樹"],
+    "answer": 0,
+    "explanation": "油桐樹又稱「千年桐」。"
+  },
+  {
+    "id": 29,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "臺灣的蝴蝶品種大約有多少種？",
+    "options": ["五百多種", "四百多種", "三百多種"],
+    "answer": 1,
+    "explanation": "臺灣的蝴蝶品種大約有四百多種。"
+  },
+  {
+    "id": 30,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "黃蝶翠谷位在高雄縣哪一鄉鎮？",
+    "options": ["燕巢鄉", "大樹鄉", "美濃鎮"],
+    "answer": 2,
+    "explanation": "黃蝶翠谷位於高雄縣美濃鎮。"
+  },
+  {
+    "id": 31,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "彩蝶谷是屬於：",
+    "options": ["過冬型", "生態型", "避暑型"],
+    "answer": 0,
+    "explanation": "彩蝶谷是屬於過冬型的蝴蝶谷。"
+  },
+  {
+    "id": 32,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "黃蝶翠谷是屬於：",
+    "options": ["過冬型", "生態型", "避暑型"],
+    "answer": 1,
+    "explanation": "黃蝶翠谷是屬於生態型的蝴蝶谷。"
+  },
+  {
+    "id": 33,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "黃蝶主要的糧食是哪一種樹的嫩葉？",
+    "options": ["鐵刀木", "鐵樹", "蛇木"],
+    "answer": 0,
+    "explanation": "黃蝶主要的糧食是鐵刀木的嫩葉。"
+  },
+  {
+    "id": 34,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "哪一座水庫的興建，會對黃蝶造成影響？",
+    "options": ["石門水庫", "美濃水庫", "明德水庫"],
+    "answer": 1,
+    "explanation": "美濃水庫的興建會對黃蝶造成影響。"
+  },
+  {
+    "id": 35,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "有「蝴蝶王國」的美名之稱的地方是？",
+    "options": ["日本", "新加坡", "台灣"],
+    "answer": 2,
+    "explanation": "臺灣有「蝴蝶王國」的美名。"
+  },
+  {
+    "id": 36,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「孕育出蝴蝶」中的「孕」，注音為？",
+    "options": ["ㄩㄣˋ", "ㄋㄞˇ", "ㄉㄨㄛˇ"],
+    "answer": 0,
+    "explanation": "孕的注音為ㄩㄣˋ。"
+  },
+  {
+    "id": 37,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「從大山中避寒遷移而來」中的「遷」，注音為？",
+    "options": ["ㄑㄧㄢ", "ㄅㄢ", "ㄐㄩㄢˇ"],
+    "answer": 0,
+    "explanation": "遷的注音為ㄑㄧㄢ。"
+  },
+  {
+    "id": 38,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「成群的黃蝶飛舞，蔚為奇觀」中的「蔚為奇觀」意為？",
+    "options": ["令人覺得可憐", "草木茂盛的景觀", "匯聚成奇特的景觀"],
+    "answer": 2,
+    "explanation": "蔚為奇觀：意為匯聚成奇特的景觀。"
+  },
+  {
+    "id": 39,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "通常黃蝶的活動期為？",
+    "options": ["四月到六月", "六月到八月", "八月到十月"],
+    "answer": 0,
+    "explanation": "通常黃蝶的活動期為四月到六月。"
+  },
+  {
+    "id": 40,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「著名的賞蝶景點」中的「著」，注音為？",
+    "options": ["ㄓㄜ", "ㄓㄨㄛˊ", "ㄓㄨˋ"],
+    "answer": 2,
+    "explanation": "著的注音為ㄓㄨˋ。"
+  },
+  {
+    "id": 41,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「蔚為奇觀」中的「蔚」，注音為？",
+    "options": ["ㄩˋ", "ㄨㄟˋ", "ㄩㄣˋ"],
+    "answer": 1,
+    "explanation": "蔚的注音為ㄨㄟˋ。"
+  },
+  {
+    "id": 42,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「嫩葉」中的「嫩」，注音為？",
+    "options": ["ㄋㄣˋ", "ㄌㄥˋ", "ㄖㄣˋ"],
+    "answer": 0,
+    "explanation": "嫩的注音為ㄋㄣˋ。"
+  },
+  {
+    "id": 43,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「被水淹沒」中的「沒」，注音為？",
+    "options": ["ㄇㄛˋ", "ㄇㄟˊ", "ㄇㄟˇ"],
+    "answer": 0,
+    "explanation": "沒的注音為ㄇㄛˋ。"
+  },
+  {
+    "id": 44,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「攜手合作」中的「攜」，注音為？",
+    "options": ["ㄑㄧㄢ", "ㄕㄡ", "ㄒㄧ"],
+    "answer": 2,
+    "explanation": "攜的注音為ㄒㄧ。"
+  },
+  {
+    "id": 45,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "綠島位在哪一個海洋？",
+    "options": ["大西洋", "太平洋", "印度洋"],
+    "answer": 1,
+    "explanation": "綠島位於太平洋上。"
+  },
+  {
+    "id": 46,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「火燒島」是哪一座島的別稱？",
+    "options": ["蘭嶼", "綠島", "龜山島"],
+    "answer": 1,
+    "explanation": "「火燒島」是綠島的別稱。"
+  },
+  {
+    "id": 47,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "綠島監獄是哪一國人規劃的？",
+    "options": ["美國人", "荷蘭人", "日本人"],
+    "answer": 2,
+    "explanation": "綠島監獄是日本人規劃的。"
+  },
+  {
+    "id": 48,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "現在，只要想到「大哥」就聯想到：",
+    "options": ["綠島", "金門", "馬祖"],
+    "answer": 0,
+    "explanation": "想到「大哥」首先想到的就是綠島。"
+  },
+  {
+    "id": 49,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "在綠島一文中所提到的「大哥」是指：",
+    "options": ["兄弟中排行最大的", "事業有成的人", "黑社會搞幫派的人"],
+    "answer": 2,
+    "explanation": "在文中「大哥」指的是黑社會搞幫派的人。"
+  },
+  {
+    "id": 50,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「世外桃源」意指？",
+    "options": ["形容種滿桃子樹、盛產桃子的地方", "比喻風景優美而人跡罕至的地方", "宇宙未知的世界"],
+    "answer": 1,
+    "explanation": "世外桃源：比喻風景優美而人跡罕至的地方。"
+  },
+  {
+    "id": 51,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「浩瀚的太平洋」中的「浩瀚」意為？",
+    "options": ["水盛大廣闊的樣子", "東西繁多、眾多的樣子", "久留人間的樣子"],
+    "answer": 0,
+    "explanation": "浩瀚：意為水盛大廣闊的樣子。"
+  },
+  {
+    "id": 52,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「浩瀚」中的「瀚」，注音為？",
+    "options": ["ㄏㄢˊ", "ㄏㄢˇ", "ㄏㄢˋ"],
+    "answer": 2,
+    "explanation": "瀚的注音為ㄏㄢˋ。"
+  },
+  {
+    "id": 53,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「祈求佛祖保佑」中的「祈」，注音為？",
+    "options": ["ㄑㄧˊ", "ㄑㄧˇ", "ㄓㄜˊ"],
+    "answer": 0,
+    "explanation": "祈的注音為ㄑㄧˊ。"
+  },
+  {
+    "id": 54,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「流氓」意為？",
+    "options": ["對「出家人」的敬稱", "乞丐", "破壞社會秩序或組織幫派的不法分子"],
+    "answer": 2,
+    "explanation": "流氓：是指破壞社會秩序或組織幫派的不法分子。"
+  },
+  {
+    "id": 55,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「潛力無窮」中的「潛力」，意為？",
+    "options": ["一種可能發揮的潛在能力", "潛水的能力", "製造潛水艇的能力"],
+    "answer": 0,
+    "explanation": "潛力：意為一種可能發揮的潛在能力。"
+  },
+  {
+    "id": 56,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「觀光勝地」中的「勝地」，意為？",
+    "options": ["出奇制勝的地點", "以風景優美而著名的地方", "意想不到的地方"],
+    "answer": 1,
+    "explanation": "勝地：意為以風景優美而著名的地方。"
+  },
+  {
+    "id": 57,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「耳目一新」意為？",
+    "options": ["接受換腦手術", "除舊布新", "所見所聞都有一種新奇、清新的感覺"],
+    "answer": 2,
+    "explanation": "耳目一新意為所見所聞都有一種新奇、清新的感覺。"
+  },
+  {
+    "id": 58,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「假日來一□生態之旅，可令你耳目一新呢！」文中的□處，宜填入？",
+    "options": ["趟", "周", "道"],
+    "answer": 0,
+    "explanation": "「來一趟生態之旅」中的「趟」是正確的用法。"
+  },
+  {
+    "id": 59,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「流氓」中的「氓」，注音為？",
+    "options": ["ㄇㄧㄣˊ", "ㄇㄧㄥˊ", "ㄇㄤˊ"],
+    "answer": 2,
+    "explanation": "氓的注音為ㄇㄤˊ。"
+  },
+  {
+    "id": 60,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「擁有」中的「擁」，注音為？",
+    "options": ["ㄩㄥˇ", "ㄩㄥˋ", "ㄩㄥ"],
+    "answer": 0,
+    "explanation": "擁的注音為ㄩㄥˇ。"
+  }
+]
+
