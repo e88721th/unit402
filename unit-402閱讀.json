@@ -541,7 +541,7 @@
   },
   {
     "id": 61,
-    "unit": 1,
+    "unit": 7,
     "category": "reading_comprehension",
     "question": "中國傳說的「鬼月」是農曆的幾月？",
     "options": ["五月", "六月", "七月"],
@@ -550,7 +550,7 @@
   },
   {
     "id": 62,
-    "unit": 1,
+    "unit": 7,
     "category": "reading_comprehension",
     "question": "中元普渡準備豐盛的祭品是要：",
     "options": ["超渡亡魂", "救濟窮人", "自己吃"],
@@ -559,7 +559,7 @@
   },
   {
     "id": 63,
-    "unit": 1,
+    "unit": 7,
     "category": "reading_comprehension",
     "question": "目蓮拿飯給他母親吃，結果：",
     "options": ["母親馬上就吃完了", "母親吃得很高興", "飯馬上變成了炭火"],
@@ -568,7 +568,7 @@
   },
   {
     "id": 64,
-    "unit": 1,
+    "unit": 7,
     "category": "reading_comprehension",
     "question": "中元普渡是在農曆的哪一天？",
     "options": ["六月十四日", "七月十五日", "八月十六日"],
@@ -577,7 +577,7 @@
   },
   {
     "id": 65,
-    "unit": 1,
+    "unit": 7,
     "category": "reading_comprehension",
     "question": "目蓮最後有沒有解救了母親？",
     "options": ["有", "沒有", "不知道"],
@@ -586,7 +586,7 @@
   },
   {
     "id": 66,
-    "unit": 1,
+    "unit": 7,
     "category": "vocabulary",
     "question": "「供品」中的「供」，注音為？",
     "options": ["ㄍㄨㄥˇ", "ㄍㄨㄥ", "ㄍㄨㄥˋ"],
@@ -595,7 +595,7 @@
   },
   {
     "id": 67,
-    "unit": 1,
+    "unit": 7,
     "category": "vocabulary",
     "question": "「道行很高的高僧」中的「道行」意為？",
     "options": ["馬路旁的行道樹", "僧道修行的功夫，比喻技能本領", "工作的履歷"],
@@ -604,7 +604,7 @@
   },
   {
     "id": 68,
-    "unit": 1,
+    "unit": 7,
     "category": "vocabulary",
     "question": "「道行」中的「行」，注音為？",
     "options": ["ㄏㄢˊ", "ㄏㄤˊ", "ㄒㄧㄥˊ"],
@@ -613,7 +613,7 @@
   },
   {
     "id": 69,
-    "unit": 1,
+    "unit": 7,
     "category": "vocabulary",
     "question": "「道行很高的高僧」中的「僧」，注音為？",
     "options": ["ㄗㄥ", "ㄘㄥˊ", "ㄙㄥ"],
@@ -622,7 +622,7 @@
   },
   {
     "id": 70,
-    "unit": 1,
+    "unit": 7,
     "category": "vocabulary",
     "question": "「高僧」意為？",
     "options": ["戒行卓越的和尚", "年老的讀書人", "身材高大的巨人"],
@@ -631,7 +631,7 @@
   },
   {
     "id": 71,
-    "unit": 1,
+    "unit": 8,
     "category": "vocabulary",
     "question": "「往生的母親」中的「往生」，意為？",
     "options": ["一般就是指已經故去的人", "獲得永生", "高壽"],
@@ -640,7 +640,7 @@
   },
   {
     "id": 72,
-    "unit": 1,
+    "unit": 8,
     "category": "vocabulary",
     "question": "「拯救」中的「拯」，注音為？",
     "options": ["ㄔㄥˊ", "ㄓㄥˋ", "ㄓㄥˇ"],
@@ -649,7 +649,7 @@
   },
   {
     "id": 73,
-    "unit": 1,
+    "unit": 8,
     "category": "vocabulary",
     "question": "「報應」意為？",
     "options": ["報酬", "回答他人問話", "指做壞事的人必定會遭受惡運"],
@@ -658,7 +658,7 @@
   },
   {
     "id": 74,
-    "unit": 1,
+    "unit": 8,
     "category": "reading_comprehension",
     "question": "臺灣過「冬至」的習俗是：",
     "options": ["吃米糕", "吃湯圓", "吃紅豆粥"],
@@ -667,7 +667,7 @@
   },
   {
     "id": 75,
-    "unit": 1,
+    "unit": 8,
     "category": "reading_comprehension",
     "question": "「冬至」是一年中重要的日子，它代表：",
     "options": ["春天要來了", "這天白晝最長", "這天黑夜最短"],
@@ -676,7 +676,7 @@
   },
   {
     "id": 76,
-    "unit": 1,
+    "unit": 8,
     "category": "reading_comprehension",
     "question": "吃完湯圓的小朋友代表你：",
     "options": ["又長大一歲", "又小了一歲", "沒長大"],
@@ -685,7 +685,7 @@
   },
   {
     "id": 77,
-    "unit": 1,
+    "unit": 8,
     "category": "reading_comprehension",
     "question": "在唐、宋、明時代，皇帝都會在哪一天舉行「郊祭」？",
     "options": ["秋分", "春分", "冬至"],
@@ -694,7 +694,7 @@
   },
   {
     "id": 78,
-    "unit": 1,
+    "unit": 8,
     "category": "reading_comprehension",
     "question": "吃湯圓代表的是全家：",
     "options": ["團圓", "分離", "怨恨"],
@@ -703,7 +703,7 @@
   },
   {
     "id": 79,
-    "unit": 1,
+    "unit": 8,
     "category": "reading_comprehension",
     "question": "「冬至的習俗各地都不同，有的會蒸□□祭祖」，□□中宜填入？",
     "options": ["蛋糕", "米糕", "年糕"],
@@ -712,7 +712,7 @@
   },
   {
     "id": 80,
-    "unit": 1,
+    "unit": 8,
     "category": "reading_comprehension",
     "question": "「冬至的習俗各地都不同，有的會煮紅豆粥□□」，□□中宜填入？",
     "options": ["布施", "招福", "驅鬼"],
@@ -721,7 +721,7 @@
   },
   {
     "id": 81,
-    "unit": 1,
+    "unit": 9,
     "category": "reading_comprehension",
     "question": "以前農家過冬至時，會用糯米團來做一些小動物，稱為「雞母狗仔」。用它來祭拜祖先，有祈求□□□□的意思？",
     "options": ["六畜興旺", "長命百歲", "歲歲平安"],
@@ -730,7 +730,7 @@
   },
   {
     "id": 82,
-    "unit": 1,
+    "unit": 9,
     "category": "reading_comprehension",
     "question": "「六畜興旺」意為？",
     "options": ["年終收成豐富", "積聚儲存以備應用", "指各種牲畜、家禽繁衍興旺"],
@@ -739,7 +739,7 @@
   },
   {
     "id": 83,
-    "unit": 1,
+    "unit": 9,
     "category": "vocabulary",
     "question": "「牲畜」中的「畜」，注音為？",
     "options": ["ㄔㄨˋ", "ㄒㄩˋ", "ㄕㄥ"],
@@ -748,7 +748,7 @@
   },
   {
     "id": 84,
-    "unit": 1,
+    "unit": 9,
     "category": "vocabulary",
     "question": "「糯米團」中的「糯」，注音為？",
     "options": ["ㄋㄨㄛˋ", "ㄒㄩ", "ㄖㄨˊ"],
@@ -757,7 +757,7 @@
   },
    {
     "id": 85,
-    "unit": 1,
+    "unit": 9,
     "category": "reading_comprehension",
     "question": "七爺長得高高的，舌頭長長的，本姓：",
     "options": ["范", "謝", "張"],
@@ -766,7 +766,7 @@
   },
   {
     "id": 86,
-    "unit": 1,
+    "unit": 9,
     "category": "reading_comprehension",
     "question": "七爺與八爺的友誼可以用哪句話來形容？",
     "options": ["生死之交", "難兄難弟", "臭味相投"],
@@ -775,7 +775,7 @@
   },
   {
     "id": 87,
-    "unit": 1,
+    "unit": 9,
     "category": "reading_comprehension",
     "question": "收七爺、八爺做隨身將軍的是：",
     "options": ["觀世音", "註生娘娘", "城隍爺"],
@@ -784,7 +784,7 @@
   },
   {
     "id": 88,
-    "unit": 1,
+    "unit": 9,
     "category": "reading_comprehension",
     "question": "從故事中得知，七爺、八爺兩個人都：",
     "options": ["巧言令色", "守信用", "不守承諾"],
@@ -793,7 +793,7 @@
   },
   {
     "id": 89,
-    "unit": 1,
+    "unit": 9,
     "category": "reading_comprehension",
     "question": "本則故事中誰先死掉？",
     "options": ["老范", "老謝", "一起"],
@@ -802,7 +802,7 @@
   },
   {
     "id": 90,
-    "unit": 1,
+    "unit": 9,
     "category": "vocabulary",
     "question": "「赴約」意為？",
     "options": ["彼此並未事先約定，而意見或行為卻相同", "臨時爽約", "前往參加約會"],
@@ -811,7 +811,7 @@
   },
   {
     "id": 91,
-    "unit": 1,
+    "unit": 10,
     "category": "vocabulary",
     "question": "「承諾」意為？",
     "options": ["擔當、負責", "指應允的話或同意的事", "傳接繼承"],
@@ -820,7 +820,7 @@
   },
   {
     "id": 92,
-    "unit": 1,
+    "unit": 10,
     "category": "vocabulary",
     "question": "「承諾」中的「承」，注音為？",
     "options": ["ㄔㄥˊ", "ㄔㄣˊ", "ㄔㄥ"],
@@ -829,7 +829,7 @@
   },
   {
     "id": 93,
-    "unit": 1,
+    "unit": 10,
     "category": "vocabulary",
     "question": "「犧牲性命」中的「犧牲」意為？",
     "options": ["泛指牛、羊、豬、馬等一般的家畜", "延長性命", "為了某種目的，而付出自己的生命或權益"],
@@ -838,7 +838,7 @@
   },
   {
     "id": 94,
-    "unit": 1,
+    "unit": 10,
     "category": "vocabulary",
     "question": "「犧牲」中的「犧」，注音為？",
     "options": ["ㄧˋ", "ㄒㄧ", "ㄕㄥ"],
@@ -847,7 +847,7 @@
   },
   {
     "id": 95,
-    "unit": 1,
+    "unit": 10,
     "category": "vocabulary",
     "question": "「跳河自盡」中的「自盡」，意為？",
     "options": ["自殺", "比喻非常用心、盡力", "隱沒"],
@@ -856,7 +856,7 @@
   },
   {
     "id": 96,
-    "unit": 1,
+    "unit": 10,
     "category": "reading_comprehension",
     "question": "「福德正神」就是：",
     "options": ["灶神", "土地公", "月下老人"],
@@ -865,7 +865,7 @@
   },
   {
     "id": 97,
-    "unit": 1,
+    "unit": 10,
     "category": "reading_comprehension",
     "question": "土地公就好像人間的：",
     "options": ["皇帝", "總統", "村里長"],
@@ -874,7 +874,7 @@
   },
   {
     "id": 98,
-    "unit": 1,
+    "unit": 10,
     "category": "reading_comprehension",
     "question": "台灣民間最普遍、供奉最多的神祇是：",
     "options": ["土地公", "媽祖娘娘", "觀世音菩薩"],
@@ -883,7 +883,7 @@
   },
   {
     "id": 99,
-    "unit": 1,
+    "unit": 10,
     "category": "reading_comprehension",
     "question": "「神祇」意為？",
     "options": ["天神與地祇，泛指神明", "但是、只是", "人的精氣或注意力"],
@@ -892,7 +892,7 @@
   },
   {
     "id": 100,
-    "unit": 1,
+    "unit": 10,
     "category": "vocabulary",
     "question": "「笑容可掬」中的「掬」，注音為？",
     "options": ["ㄐㄩ", "ㄐㄩˊ", "ㄐㄩˇ"],
@@ -901,7 +901,7 @@
   },
   {
     "id": 101,
-    "unit": 1,
+    "unit": 10,
     "category": "reading_comprehension",
     "question": "「土地公」的生日為？",
     "options": ["一月十五日", "七月十五日", "八月十五日"],
@@ -910,7 +910,7 @@
   },
   {
     "id": 102,
-    "unit": 1,
+    "unit": 10,
     "category": "vocabulary",
     "question": "「消災解厄」中的「厄」，注音為？",
     "options": ["ㄜˋ", "ㄨㄟˊ", "ㄢ"],
@@ -919,7 +919,7 @@
   },
   {
     "id": 103,
-    "unit": 1,
+    "unit": 10,
     "category": "vocabulary",
     "question": "「遍佈各地」中的「遍」，注音為？",
     "options": ["ㄅㄧㄢˇ", "ㄆㄧㄢˋ", "ㄅㄧㄢˋ"],
